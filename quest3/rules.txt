@@ -1,0 +1,7 @@
+se cartao = sim e data = sim e senha = sim e tentativas = sim e saldo = sim e limite = sim então pagamento = sim
+se cartao = nao então pagamento = nao
+se data = nao então pagamento = nao
+se senha = nao então pagamento = nao
+se tentativas = nao então pagamento = nao
+se saldo = nao então pagamento = nao
+se limite = nao então pagamento = nao
