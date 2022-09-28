@@ -1,0 +1,8 @@
+se k = sim e l = sim e m = sim então i = sim
+se i = sim e l = sim e j = sim então q = sim
+se c = sim e d = sim e e = sim então b = sim
+se a = sim e b = sim então q = sim
+se l = sim e n = sim e o = sim e p = sim então q = sim
+se c = sim e h = sim então r = sim
+se r = sim e j = sim e m = sim então s = sim
+se f = sim e h = sim então b = sim
