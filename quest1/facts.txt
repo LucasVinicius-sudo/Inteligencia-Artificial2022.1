@@ -1,0 +1,7 @@
+a = sim
+c = sim
+d = sim
+e = sim
+g = sim
+h = sim
+k = sim
