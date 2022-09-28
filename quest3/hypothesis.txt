@@ -1,0 +1,3 @@
+pagamento = autorizado
+cartao = sim
+tentativas = sim

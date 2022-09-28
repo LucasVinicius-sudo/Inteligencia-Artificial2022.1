@@ -1,0 +1,3 @@
+cartao = nao
+tentativas = nao
+saldo = nao
