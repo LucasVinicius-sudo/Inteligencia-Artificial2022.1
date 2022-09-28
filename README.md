@@ -6,6 +6,7 @@ Repositorio com código das questões da materia de inteligencia Artificial mini
 Considere as sentenças de 1 a 16, tomadas como verdadeiras. Usando tais
 sentenças, prove Q a partir delas e usando as regras de inferência: MP, MT, SH, SD e
 introdução do &.
+<br>
 1. (K & L & M) -> I // Se K = Sim AND L = Sim AND M = Sim Então I = Sim
 2. (I & L & J) -> Q
 3. (C & D & E) -> B
